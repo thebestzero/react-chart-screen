@@ -24,11 +24,11 @@ export default tseslint.config(
         { allowConstantExport: true },
       ],
     },
-    overrideConfig:{
-        linterOptions:{
-            reportUnusedDisableDirectives:true
-        }
-    }
+    // overrideConfig:{
+    //     linterOptions:{
+    //         reportUnusedDisableDirectives:true
+    //     }
+    // }
   },
 )
 
